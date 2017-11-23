@@ -1,0 +1,11 @@
+*/env/
+*__pycache__
+
+chromedriver
+my_screenshot.png
+slackbot_settings.py
+
+plugins/const.py
+plugins/README.md
+plugins/tmp.html
+plugins/user_info.json
